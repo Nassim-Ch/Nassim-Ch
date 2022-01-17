@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Nassim-Ch
+- 🌱 I’m currently learning web development and other fun stuff
+- 💞️ I’m looking to collaborate on media art projects – pitch me any idea!
